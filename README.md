@@ -1,4 +1,4 @@
-     ![visitors](https://visitor-badge.glitch.me/badge?page_id=1wak.1wak)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=1wak.1wak)
 
 ### Jokes
 
